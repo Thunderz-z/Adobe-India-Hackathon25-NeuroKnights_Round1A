@@ -1,0 +1,29 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_002",
+        "test_case_name": "Business Analysis",
+        "description": "3 annual reports from competing tech companies"
+    },
+    "documents": [
+        {
+            "filename": "accenture-fiscal-2024-annual-report.pdf",
+            "title": "accenture-fiscal-2024-annual-report"
+        },
+        {
+            "filename": "SonataSoftwareLimitedAnnualReportFY24.pdf",
+            "title": "SonataSoftwareLimitedAnnualReportFY24"
+        },
+        {
+            "filename": "TCS-annual-report-2023-2024.pdf",
+            "title": "TCS-annual-report-2023-2024"
+        }
+
+
+    ],
+    "persona": {
+        "role": "Investment Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Analyze revenue trends, R&D investments, and market positioning strategies"
+    }
+}

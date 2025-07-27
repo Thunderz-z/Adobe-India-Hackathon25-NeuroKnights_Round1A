@@ -1,0 +1,37 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_003",
+        "test_case_name": "Educational Content",
+        "description": "5 chapters from organic chemistry textbooks"
+    },
+    "documents": [
+        {
+            "filename": "Carbohydrates.pdf",
+            "title": "Carbohydrates"
+        },
+        {
+            "filename": "Carbonyl_Compounds_Esters_Amides_and_Related_Molecules.pdf",
+            "title": "Carbonyl_Compounds_Esters_Amides_and_Related_Molecules"
+        },
+        {
+            "filename": "Chemical Kinetics.pdf",
+            "title": "Chemical Kinetics"
+        },
+        {
+            "filename": "Conjugated and Aromatic Molecules.pdf",
+            "title": "Conjugated and Aromatic Molecules"
+        },
+        {
+            "filename": "Organic Molecules and Chemical Bonding.pdf",
+            "title": "Organic Molecules and Chemical Bonding"
+        }
+
+
+    ],
+    "persona": {
+        "role": "Undergraduate Chemistry Student"
+    },
+    "job_to_be_done": {
+        "task": "Identify key concepts and mechanisms for exam preparation on reaction kinetics"
+    }
+}

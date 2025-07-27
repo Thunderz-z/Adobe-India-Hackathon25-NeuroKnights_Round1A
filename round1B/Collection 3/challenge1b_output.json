@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Carbohydrates.pdf",
+      "Carbonyl_Compounds_Esters_Amides_and_Related_Molecules.pdf",
+      "Chemical Kinetics.pdf",
+      "Conjugated and Aromatic Molecules.pdf",
+      "Organic Molecules and Chemical Bonding.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "timestamp": "2025-07-27T13:42:30Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "section_title": "Summary Summary Summary Summary Summary",
+      "importance_rank": 1
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 11,
+      "section_title": "71 Chemical Kinetics",
+      "importance_rank": 2
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "section_title": "3.4.1 Effect of Catalyst",
+      "importance_rank": 3
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 6,
+      "section_title": "66 Chemistry",
+      "importance_rank": 4
+    },
+    {
+      "document": "Organic Molecules and Chemical Bonding.pdf",
+      "page": 55,
+      "section_title": "(4,5,9,11,12/98)(1,9,10/99) Neuman Chapter 1",
+      "importance_rank": 5
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "section_title": "a / AB Rate Z e E RT P − =",
+      "importance_rank": 6
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "section_title": "83 Chemical Kinetics",
+      "importance_rank": 7
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 7,
+      "section_title": "67 Chemical Kinetics",
+      "importance_rank": 8
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 15,
+      "section_title": "75 Chemical Kinetics",
+      "importance_rank": 9
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 2,
+      "section_title": "62 Chemistry",
+      "importance_rank": 10
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 5,
+      "section_title": "65 Chemical Kinetics",
+      "importance_rank": 11
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 3,
+      "section_title": "63 Chemical Kinetics",
+      "importance_rank": 12
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 18,
+      "section_title": "78 Chemistry",
+      "importance_rank": 13
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "section_title": "82 Chemistry",
+      "importance_rank": 14
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "section_title": "84 Chemistry",
+      "importance_rank": 15
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "Chemical kinetics is the study of chemical reactions with respect to reaction rates, effect of various variables, rearrangement of atoms and formation of intermediates."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "A number of factors such as temperature, concentration of reactants, catalyst, affect the rate of a reaction."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "The rate of a reaction is concerned with decrease in concentration of reactants or increase in the concentration of products per unit time."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "Mathematical representation of rate of a reaction is given by rate law ."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "Molecularity is defined only for an elementary reaction."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 11,
+      "refined_text": "(iii) For complex reaction, order is given by the slowest step and molecularity of the slowest step is same as the order of the overall reaction."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 11,
+      "refined_text": "Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions"
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "refined_text": "3.5 Collision 3.5 Collision 3.5 Collision 3.5 Collision 3.5 Collision Theory of Theory of Theory of Theory of Theory of Chemical Chemical Chemical Chemical Chemical Reactions Reactions Reactions Reactions Reactions"
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 6,
+      "refined_text": "Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions 3.1 For the reaction R ® P, the concentration of a reactant changes from 0.03M to 0.02M in 25 minutes."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 6,
+      "refined_text": "Rate of reaction depends upon the experimental conditions such as concentration of reactants (pressure in case of gases), temperature and catalyst."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 6,
+      "refined_text": "The rate of a chemical reaction at a given temperature may depend on the concentration of one or more reactants and products."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 6,
+      "refined_text": "The representation of rate of reaction in terms of concentration of the reactants is known as rate law ."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 6,
+      "refined_text": "So, rate of a reaction depends upon the concentration of reactants."
+    },
+    {
+      "document": "Organic Molecules and Chemical Bonding.pdf",
+      "page": 55,
+      "refined_text": "You will also learn that most of the biochemical reactions that occur in organisms are organic reactions with mechanisms analogous to those that you will study in this course."
+    },
+    {
+      "document": "Organic Molecules and Chemical Bonding.pdf",
+      "page": 55,
+      "refined_text": "We refer to the details of these changes as the reaction mechanisms and we will discuss them in depth for various types of chemical reactions."
+    },
+    {
+      "document": "Organic Molecules and Chemical Bonding.pdf",
+      "page": 55,
+      "refined_text": "Bioorganic Chemistry (1.3C) If your academic major is in one of the life sciences, you are studying organic chemistry because all organisms are complex molecular assemblies made up of a vast number of organic molecules."
+    },
+    {
+      "document": "Organic Molecules and Chemical Bonding.pdf",
+      "page": 55,
+      "refined_text": "Organic chemical reactions take place by a series of steps in which existing chemical bonds break and new chemical bonds form."
+    },
+    {
+      "document": "Organic Molecules and Chemical Bonding.pdf",
+      "page": 55,
+      "refined_text": "Chemical Reactions (1.3B) Chemical reactions are the core of organic chemistry."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "Thus, in collision theory activation energy and proper orientation of the molecules together determine the criteria for an effective collision and hence the rate of a chemical reaction."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "You will study details about this theory and more on other theories in your higher classes."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "Collision theory also has certain drawbacks as it considers atoms/ molecules to be hard spheres and ignores their structural aspect."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "Another factor which affects the rate of chemical reactions is activation energy (as we have already studied)."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "For a bimolecular elementary reaction A + B ® Products rate of reaction can be expressed as a / AB Rate Z e E RT − = (3.23) where Z AB represents the collision frequency of reactants, A and B and e - E a / RT represents the fraction of molecules with energies equal to or greater than E a ."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "Equation (3.23) predicts the value of rate constants fairly accurately for the reactions that involve atomic species or simple molecules but for complex molecules significant deviations are observed."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "The collisions in which molecules collide with sufficient kinetic energy (called threshold energy*) and proper orientation, so as to facilitate breaking of bonds between reacting species and formation of new bonds to form products are called as effective collisions."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 23,
+      "refined_text": "assumed to be hard spheres and reaction is postulated to occur when molecules collide with each other."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 7,
+      "refined_text": "Thus, rate law is the expression in which reaction rate is given in terms of molar concentration of reactants with each term raised to some power, which may or may not be same as the stoichiometric coefficient of the reacting species in a balanced chemical equation ."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 7,
+      "refined_text": "For example: 2NO(g) + O 2 (g) ® 2NO 2 (g) We can measure the rate of this reaction as a function of initial concentrations either by keeping the concentration of one of the reactants constant and changing the concentration of the other reactant or by changing the concentration of both the reactants."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 7,
+      "refined_text": "The equation like (3.4), which relates the rate of a reaction to concentration of reactants is called rate law or rate expression."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 7,
+      "refined_text": "Consider a general reaction aA + bB ® cC + dD where a, b, c and d are the stoichiometric coefficients of reactants and products."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 7,
+      "refined_text": "Table 3.2: Initial rate of formation of NO 2 Experiment Initial [NO]/ mol L -1 Initial [O 2 ]/ mol L -1 Initial rate of formation of NO 2 / mol L -1 s -1"
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 15,
+      "refined_text": "If x atm be the decrease in pressure of A at time t and one mole each of B and C is being formed, the increase in pressure of B and C will also be x atm each."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 15,
+      "refined_text": "p A , p B and p C are the partial pressures of A, B and C, respectively."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 2,
+      "refined_text": "Kinetic studies not only help us to determine the speed or rate of a chemical reaction but also describe the conditions by which the reaction rates can be altered."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 2,
+      "refined_text": "However, in order to understand all these, let us first learn about the reaction rate."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 2,
+      "refined_text": "The factors such as concentration, temperature, pressure and catalyst affect the rate of a reaction."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 2,
+      "refined_text": "Some elementary ideas about the collision theory of reaction rates are also given."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 2,
+      "refined_text": "At the molecular level, the reaction mechanisms involving orientation and energy of molecules undergoing collisions, are discussed."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 5,
+      "refined_text": "So in problem 3.1, r inst at 600s for example, can be calculated by plotting concentration of butyl chloride as a function of time."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 5,
+      "refined_text": "It can be determined graphically by drawing a tangent at time t on either of the curves for concentration of R and P vs time t and calculating its slope (Fig."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 5,
+      "refined_text": "The slope of this tangent gives the instantaneous rate."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 5,
+      "refined_text": "A tangent is drawn that touches the curve at t = 600 s (Fig."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 3,
+      "refined_text": "Rate of appearance of P"
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 18,
+      "refined_text": "Most of the chemical reactions are accelerated by increase in temperature."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 18,
+      "refined_text": "The temperature dependence of the rate of a chemical reaction can be accurately explained by Arrhenius equation (3.18)."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 18,
+      "refined_text": "Thus, the rate of reaction is affected by concentration of ethyl acetate only."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 18,
+      "refined_text": "For example, during the hydrolysis of 0.01 mol of ethyl acetate with 10 mol of water, amounts of the reactants and products at the beginning ( t = 0) and completion ( t ) of the reaction are given as under."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 18,
+      "refined_text": "It has been found that for a chemical reaction with rise in temperature by 10°, the rate constant is nearly doubled."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "refined_text": "It is based on kinetic theory of gases."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "refined_text": "A catalyst is a substance which increases the rate of a reaction without itself undergoing any permanent chemical change."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "refined_text": "According to this theory, a catalyst participates in a chemical reaction by forming temporary bonds with the reactants resulting in an intermediate complex."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "refined_text": "A small amount of the catalyst can catalyse a large amount of reactants."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 22,
+      "refined_text": "For example, MnO 2 catalyses the following reaction so as to increase its rate considerably."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "3.8 The rate of the chemical reaction doubles for an increase of 10K in absolute temperature from 298K."
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "3.9 The activation energy for the reaction"
+    },
+    {
+      "document": "Chemical Kinetics.pdf",
+      "page": 24,
+      "refined_text": "Intext Questions Intext Questions Intext Questions Intext Questions Intext Questions 3.7 What will be the effect of temperature on rate constant ?"
+    }
+  ]
+}

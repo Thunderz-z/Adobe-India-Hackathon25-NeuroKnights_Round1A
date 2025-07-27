@@ -1,0 +1,422 @@
+{
+  "metadata": {
+    "input_documents": [
+      "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "Drug discovery and mechanism prediction with explainable graph neural networks.pdf",
+      "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "Recent Developments in GNNs for Drug Discovery.pdf"
+    ],
+    "persona": "PhD Researcher in Computational Biology",
+    "job_to_be_done": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks",
+    "timestamp": "2025-07-27T13:39:48Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 14,
+      "section_title": "6 Benchmark Databases",
+      "importance_rank": 1
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "section_title": "1.1 Molecule Generation",
+      "importance_rank": 2
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "section_title": "1.2 Molecular Property Prediction",
+      "importance_rank": 3
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "section_title": "[123] Metz, J. T. et al. Navigating the kinome. Nature Chemical Biology 7 , 200–202 (2011).",
+      "importance_rank": 4
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 14,
+      "section_title": "4.2 Research hot spots and trends",
+      "importance_rank": 5
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 9,
+      "section_title": "3.6 Documents analysis",
+      "importance_rank": 6
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 6,
+      "section_title": "3.4 Journal analysis",
+      "importance_rank": 7
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "section_title": "6.4 Molecular Interaction Databases",
+      "importance_rank": 8
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 16,
+      "section_title": "Task Dataset Description",
+      "importance_rank": 9
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 1,
+      "section_title": "1. Ministry of Education Key Laboratory of Bioinformatics, Research Department of Bioinformatics at 5",
+      "importance_rank": 10
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 13,
+      "section_title": "13.  Burley SK , et al. RCSB Protein Data Bank: biological macromolecular structures enabling research and 505",
+      "importance_rank": 11
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "section_title": "6.4.1 Protein-Ligand Binding Databases",
+      "importance_rank": 12
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 5,
+      "section_title": "3.1 Unconstrained Generation",
+      "importance_rank": 13
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "section_title": "[132] Berman, H. M. et al. The protein data bank. Nucleic acids research 28 , 235–242 (2000).",
+      "importance_rank": 14
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 13,
+      "section_title": "23.  Bagherian M, Sabeti E, Wang K, Sartor MA, Nikolovska-Coleska Z, Najarian K. Machine learning 526",
+      "importance_rank": 15
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 14,
+      "refined_text": "In addition to newly developed methodologies, benchmark datasets play a vital role in advancing the field of computational drug discovery."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 14,
+      "refined_text": "While not exhaustive, this selection emphasizes the most influential datasets driving progress in computational drug discovery."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 14,
+      "refined_text": "We assembled a comprehensive list of datasets referenced across the reviewed studies and organized them by their data characteristics, as summarized in Table 2 ."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 14,
+      "refined_text": "High-quality data is essential for all the tasks ranging from molecular design Table 1: GNN-based models discussed in this review and their characteristics."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 14,
+      "refined_text": "Consistent with discussion in the paper, we separate the datasets into four categories: Comprehensive Databases, Clinical Databases, Structural Information Databases, and Molecular Interaction Databases."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "Computational approaches are usually evaluated based on these two metrics."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "To reduce experimental costs and to produce drug candidates more efficiently, many computational approaches have been devel- oped to generate novel molecules [ 6 , 7 , 8 , 9 , 10 ]."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "In other cases, the constraints can be task specifics, for example, many approaches [ 11 , 12 , 13 , 14 , 15 ] have been developed to generate molecules that bind to certain protein binding sites."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "An earlier step in developing a drug for a certain disease usually involves the search of enormous amount of molecules to create a small subset of candidates for further laboratory testing."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "Early computational approaches for molecule generation were mostly applications of generative deep learning models, such as variational autoencoder [ 16 ]."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "With quick accumulation of high-quality training data, a great number of computational methods for molecular property prediction have been developed [ 17 , 18 , 19 , 20 ], the goals of which are to reduce the need for extensive experimental validation and to accelerate the drug discovery process."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "In particular, GNNs, which take in a molecular graph representation and directly predict molecular properties, have attracted substantial attention in cheminformatics and bioinformatics ( e.g."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "Computationally, the tasks of molecular prop- erty prediction can be categorized into two broad classes based on their inputs: predictions based on sin- gle molecules (i.e., drug candidates) [ 17 , 22 , 23 ], and predictions of relationships based on two or more molecules (e.g., drug-target or protein-ligand) [ 24 , 25 , 26 ]."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "The regression tasks focus on the prediction of the quantitative value of a particular property of a molecule."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 2,
+      "refined_text": "Traditionally, drug property prediction heavily relied on classical machine learning techniques such as random forests or support vector machines [ 2 ], necessitating deep domain knowledge for feature engineer- ing."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "[129] Marinka, Z., Rok, S., Sagar, M. & Jure, L. BioSNAP datasets: Stanford biomedical network dataset collection."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "Bioinformatics 36 , 4316–4322 (2020)."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "Making sense of large-scale kinase inhibitor bioactivity data sets: a comparative and integrative analysis."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "http://snap.stanford.edu/biodata (2018)."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "Forging the basis for developing protein–ligand interaction scoring functions."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 14,
+      "refined_text": "Steven Kearnes et al., 2016 published this paper on molecular graph convolution in the Journal of Computer-Aided Molecular Design in 2016."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 14,
+      "refined_text": "Altae-Tran H published another paper in 2017 that received nearly 400 citations, introducing a new architecture that, when combined with GCN, showed signi ﬁ cant improvements in low-data predictive power in drug discovery."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 14,
+      "refined_text": "They argued that molecular graph convolution can make better use of graph structural information, providing new methods and opportunities for improvements in virtual screening for drug discovery."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 14,
+      "refined_text": "Among these, the research paper “ Modeling Polypharmacy Side Effects with Graph Convolutional Networks ” published in Bioinformatics was cited 526 times, which is currently the most cited and was the only paper published in the ﬁ eld in 2018."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 14,
+      "refined_text": "Therefore, while the GNN is a rapidly emerging deep learning algorithm in the drug discovery ﬁ eld, there are still some issues that require further resolution and optimization."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 9,
+      "refined_text": "Research papers published in Bioinformatics in 2018 had the highest citation frequency, with over 500 citations ( Zitnik et al., 2018 ), followed by paper published in ACS in 2017. the 2020 paper from the Journal of Medicinal Chemistry ranked third ( Xiong et al., 2020 )."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 9,
+      "refined_text": "These strong burst of literatures provide a solid technical foundation for the application of GNN in drug discovery, which mainly include research on GNN algorithms and drug-target interaction (DTI) research."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 9,
+      "refined_text": "Table 7 shows the ﬁ ltering of the highly cited TOP10 papers based on the total citation frequency."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 9,
+      "refined_text": "In addition, references with strong citation bursts were explored using CiteSpace, and Figure 7 displays the top 25 references with the strongest citation bursts, sorted by the burst ’ s beginning year."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 9,
+      "refined_text": "Papers with a high citation frequency are often representative of the ﬁ eld and have a great impact on its development."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 6,
+      "refined_text": "The top three journals with the highest citations were Bioinformatics, Journal of Chemical Information And Modeling, and Nucleic Acids Research."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 6,
+      "refined_text": "According to the results in Table 5 , the journal Brie ﬁ ngs in Bioinformatics had the highest number of publications with a total of 1303 citations, followed by Bioinformatics and the Journal of Chemical Information And Modeling."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 6,
+      "refined_text": "The total number of citations for Bioinformatics was 1580, which was higher than any other journal."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 6,
+      "refined_text": "According to the Journal Citation Report (JCR) 2023, the top 10 journals were located in Q1/Q2, with Brie ﬁ ngs in Bioinformatics (IF = 9.5) having the highest impact factor (IF)."
+    },
+    {
+      "document": "Knowledge mapping of graph neural networks for drug discovery a bibliometric and visualized analysis.pdf",
+      "page": 6,
+      "refined_text": "Currently, research papers related to the application of GNN to drug discovery have been published in 168 academic journals."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "Researchers use these datasets to elucidate biochemical pathways, predict binding affinities, evaluate selectivity, and simulate off-target effects."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "We include datasets that capture a range of molecular interactions, grouped into two categories: protein–ligand binding and drug–drug interactions."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "Molecular interactions databases record relationships among different molecules in various formats and are fundamental in the study of molecular biology, computational chemistry, and drug discovery."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 16,
+      "refined_text": "MoleculeNet [ 21 ] Aggregated benchmark collection covering diverse molecular properties and activities for algorithm evaluation."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 16,
+      "refined_text": "KIBA Dataset [ 124 ] Unified resource converting heterogeneous kinase-inhibitor bioactivities into standardized KIBA scores."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 16,
+      "refined_text": "Protein–Ligand Binding Metz Dataset [ 123 ] Collection of kinase inhibitor experiments reporting inhibition constants (K i ) across targets."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 16,
+      "refined_text": "Molecular Interaction Databases ChEMBL [ 122 ] Expert-curated database of small molecules linked to experimentally measured target binding affinities."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 16,
+      "refined_text": "CrossDocked [ 121 ] Large-scale docking dataset providing multiple poses and affinity estimates for protein–ligand pairs."
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 1,
+      "refined_text": "the Beijing National Research Center for Information Science and Technology, Center for Synthetic 6 and Systems Biology, Department of Automation, Tsinghua University, Beijing 100084, China; 7"
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 13,
+      "refined_text": "education in fundamental biology, biomedicine, biotechnology and energy."
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 13,
+      "refined_text": "Nucleic Acids Res 47 , D464-D474 506 (2019)."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "The uniform experimental design and extensive kinase coverage make the dataset a preferred benchmark for visually screening compound libraries and identifying novel inhibitors."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "This dataset is applicable not only to binding affinity prediction but also to the design of multi-kinase inhibitors."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "With more than 30,000 high-precision measurements obtained from a standardized binding assay, the dataset supports various tasks such as binding affinity prediction, selectivity profiling, off-target prediction, and regression model validation."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "This statistically harmonized dataset, designed to minimize experimental variability, has become a widely used benchmark for training machine learning models in drug–target affinity prediction."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 19,
+      "refined_text": "Metz Dataset [ 123 ] focused exclusively on kinase inhibition activities."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 5,
+      "refined_text": "In other words, computational models are typically trained on “hit molecules”–compounds that already ex- hibit desirable properties for drug development."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 5,
+      "refined_text": "The primary goal of such approaches is to generate structurally valid and chemically plausible molecules with high diversity, guided by the distribution of the training data."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 5,
+      "refined_text": "For computational methods to generate promising drug candidates, a natural approach is to generate chem- ically valid molecules in the vicinity of existing drugs and drug candidates ( i.e."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 5,
+      "refined_text": "Beyond this one-piece-at-a-time paradigm, another type of method adopted generative frameworks that produce complete molecules (graphs) in a single pass."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 5,
+      "refined_text": "GraphINVENT [ 56 ] is one of the initial explorations into unconstrained molecular graph generation, which explored various GNN architectures–such as gated GNNs and attention-based GNNs–to learn an “action” probability distribution from training molecules."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "DCDB 2.0: a major update of the drug combination database."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "& Montanari, F. Improving molecular graph neural network explain- ability with orthonormalization and induced sparsity."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "In International Conference on Machine Learn- ing , 4203–4213 (PMLR, 2021)."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "[133] Szarfman, A., Tonning, J. M. & Doraiswamy, P. M. Pharmacovigilance in the 21st century: new systematic tools for an old problem (2004)."
+    },
+    {
+      "document": "Recent Developments in GNNs for Drug Discovery.pdf",
+      "page": 31,
+      "refined_text": "Database 2014 (2014)."
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 13,
+      "refined_text": "approaches and databases for prediction of drug-target interaction: a survey paper."
+    },
+    {
+      "document": "DeepDrug A general graph-based deep learning framework for drug-drug interactions and drug-target interactions prediction.pdf",
+      "page": 13,
+      "refined_text": "Brief Bioinform 22 , 247- 527"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+langdetect==1.0.9
+nltk==3.9.1
+PyMuPDF==1.26.3
+scikit-learn==1.5.2
+sentence-transformers==5.0.0
+tqdm==4.67.1
