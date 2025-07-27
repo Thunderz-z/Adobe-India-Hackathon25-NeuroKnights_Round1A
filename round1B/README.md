@@ -133,3 +133,4 @@ Each collection produces a `challenge1b_output.json` file in its respective dire
 - System automatically handles 3-10 PDF documents per collection
 - Processing time optimized for 60-second execution constraint
 - Cross-platform compatibility through standardized containerization
+- Building the image may take ~8-10 minutes the first time, also depending on the hardware specs
